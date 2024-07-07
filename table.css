@@ -1,0 +1,62 @@
+
+
+table,td{
+    border: 3px black;
+    
+   
+}
+div{
+    background: rgba(0,0,0,0.7);
+    background-size: cover;
+    justify-content:space-evenly;
+    display: flex;
+}
+td{
+    height: 10px;
+    width: 10px;
+    
+    color: black;
+
+}
+table{
+    height: 50px;
+    width: 50px;
+    border: 5px black;
+}
+
+
+h1{
+    text-align: center;
+    color: greenyellow;
+    
+    font-size: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+#g{
+    
+    color: greenyellow;
+    text-align: center;
+    display: flex;
+    height: fit-content;
+    background:rgba(46,87,58, 0.5px);
+    font-size: large;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+body{
+    background-image: url("./back.jpg");
+    color: white;
+}
+img{
+    height: 100px;
+    width: 100px;
+    border: 2px solid green;
+    border-top-left-radius: 40%;
+    border-bottom-right-radius: 40%;
+    border-color: 3px green;
+    
+    justify-content: space-evenly;
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-bottom: 5px;
+}
